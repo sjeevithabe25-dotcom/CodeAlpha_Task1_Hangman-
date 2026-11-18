@@ -61,8 +61,6 @@ Wrong guesses left: 6
 Guess one letter: p
 Correct guess!
 
-Note: The secret word and output may vary in each game.
-
 Project Structure
 
 - "hangman.py" – Python source code of the game.
