@@ -37,36 +37,33 @@ CodeAlpha Hangman Game 🎮
 
 Welcome to Hangman Game!
 
-Word: _ _ _ _ _
+Word: _ _ _ _ _ 
+Wrong guesses left: 6
+Guess one letter: a
+Correct guess!
+
+Word: a _ _ _ _ 
 Wrong guesses left: 6
 Guess one letter: p
 Correct guess!
 
-Word: p _ _ _ _ _
+Word: a p p _ _ 
 Wrong guesses left: 6
-Guess one letter: y
+Guess one letter: p
+You already guessed that letter.
+
+Word: a p p _ _ 
+Wrong guesses left: 6
+Guess one letter: l
 Correct guess!
 
-Word: p y _ _ _ _
+Word: a p p l _ 
 Wrong guesses left: 6
-Guess one letter: t
+Guess one letter: e
 Correct guess!
 
-Word: p y t _ _ _
+Word: a p p l e 
 Wrong guesses left: 6
-Guess one letter: h
-Correct guess!
-
-Word: p y t h _ _
-Wrong guesses left: 6
-Guess one letter: o
-Correct guess!
-
-Word: p y t h o _
-Wrong guesses left: 6
-Guess one letter: n
-Correct guess!
-
 Congratulations! You won!
 
 7.Learning Outcomes:
